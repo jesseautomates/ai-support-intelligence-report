@@ -47,7 +47,7 @@ Identifies tickets likely to escalate by analyzing urgency, sentiment, and respo
 
 ### 🔹 Project 3: SLA Breach Prediction  
 Predicts which tickets are at risk of missing SLA before deadlines are breached, allowing teams to prioritize and act proactively.  
-👉 https://github.com/jesseautomates/ai-support-sla-breach-prediction *(update if needed)*
+👉 https://github.com/jesseautomates/ai-sla-breach-prediction
 
 ---
 
