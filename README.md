@@ -154,7 +154,7 @@ This progression demonstrates how AI can be applied incrementally to transform s
 ## Screenshots
 
 ### Workflow Overview
-![Workflow](workflow-overview.png)
+![Workflow](architecture-screenshot.png)
 
 ### Sample Report Output
 ![Report](sample-intelligence-report.png)
